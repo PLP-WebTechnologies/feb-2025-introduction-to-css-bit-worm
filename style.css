@@ -1,0 +1,47 @@
+
+
+.container {
+  border: 2px solid black;
+  margin: 3px;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+
+nav {
+  display: flex;
+  padding: 5px;
+  text-align: center;
+}
+
+.navigation {
+  display: flex;
+  margin: 5px;
+}
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: grey;
+}
+
+p {
+  margin: 20px;
+  text-align: center;
+}
+
+.contact-info {
+  text-align: left;
+}
+
+img {
+  border-radius: 3px;
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
